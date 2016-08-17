@@ -2,7 +2,21 @@ Most(if not all) of the contents are stolen from https://www.packetizer.com/ipmc
 
 # SIP Standards
 
-[TOC]
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-generate-toc again -->
+**Table of Contents**
+
+- [SIP Standards](#sip-standards)
+    - [Core SIP Documents](#core-sip-documents)
+    - [SDP-Related Documents](#sdp-related-documents)
+    - [RTP-Related Documents](#rtp-related-documents)
+    - [HTTP-Related Documents](#http-related-documents)
+    - [MIME-Related Documents](#mime-related-documents)
+    - [SIP Standards Track Documents (Options, Extensions, etc.)](#sip-standards-track-documents-options-extensions-etc)
+    - [SIP Informational RFCs and BCP Documents](#sip-informational-rfcs-and-bcp-documents)
+    - [SIP-Related Documents](#sip-related-documents)
+    - [Directory Services Documents](#directory-services-documents)
+
+<!-- markdown-toc end -->
 
 ## Core SIP Documents
 
